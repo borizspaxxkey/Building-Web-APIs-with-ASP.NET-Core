@@ -1,0 +1,11 @@
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.0\H_Plus_Sports.deps.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.0\H_Plus_Sports.runtimeconfig.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.0\H_Plus_Sports.runtimeconfig.dev.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.0\H_Plus_Sports.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.0\H_Plus_Sports.pdb
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.csprojAssemblyReference.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.csproj.CoreCompileInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.AssemblyInfoInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.AssemblyInfo.cs
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.0\H_Plus_Sports.pdb

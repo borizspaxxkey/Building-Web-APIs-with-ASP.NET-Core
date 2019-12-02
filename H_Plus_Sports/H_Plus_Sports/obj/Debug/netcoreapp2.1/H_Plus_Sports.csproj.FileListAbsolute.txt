@@ -1,0 +1,14 @@
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Debug\netcoreapp2.1\H_Plus_Sports.deps.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Debug\netcoreapp2.1\H_Plus_Sports.runtimeconfig.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Debug\netcoreapp2.1\H_Plus_Sports.runtimeconfig.dev.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Debug\netcoreapp2.1\H_Plus_Sports.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\bin\Debug\netcoreapp2.1\H_Plus_Sports.pdb
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.csprojAssemblyReference.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.csproj.CoreCompileInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.RazorAssemblyInfo.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.RazorAssemblyInfo.cs
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.AssemblyInfoInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.AssemblyInfo.cs
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.RazorTargetAssemblyInfo.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports\obj\Debug\netcoreapp2.1\H_Plus_Sports.pdb

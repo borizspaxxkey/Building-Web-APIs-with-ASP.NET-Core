@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports.Test\\H_Plus_Sports.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports.Test\\H_Plus_Sports.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports.Test\\H_Plus_Sports.Test.csproj",
+        "projectName": "H_Plus_Sports.Test",
+        "projectPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports.Test\\H_Plus_Sports.Test.csproj",
+        "packagesPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UDEANI CHUKWUEBUKA J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\H_Plus_Sports.csproj": {
+                "projectPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\H_Plus_Sports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\H_Plus_Sports.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\H_Plus_Sports.csproj",
+        "projectName": "H_Plus_Sports",
+        "projectPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\H_Plus_Sports.csproj",
+        "packagesPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UDEANI CHUKWUEBUKA J\\Desktop\\Learning\\Building Web APIs with ASP.NET Core\\H_Plus_Sports\\H_Plus_Sports\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UDEANI CHUKWUEBUKA J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "StackifyMiddleware": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

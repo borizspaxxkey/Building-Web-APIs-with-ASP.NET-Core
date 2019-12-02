@@ -1,0 +1,17 @@
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.csprojAssemblyReference.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.csproj.CoreCompileInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.AssemblyInfoInputs.cache
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.AssemblyInfo.cs
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.Test.deps.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.Test.runtimeconfig.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.Test.runtimeconfig.dev.json
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.Test.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.Test.pdb
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\bin\Debug\netcoreapp2.2\H_Plus_Sports.pdb
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.csproj.CopyComplete
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.dll
+C:\Users\UDEANI CHUKWUEBUKA J\Desktop\Learning\Building Web APIs with ASP.NET Core\H_Plus_Sports\H_Plus_Sports.Test\obj\Debug\netcoreapp2.2\H_Plus_Sports.Test.pdb
